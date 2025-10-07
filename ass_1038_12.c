@@ -17,7 +17,7 @@ int main()
     }
     else if(strcmp(str1, str2) < 0)
     {
-        printf("%s is smaller than %s\n", str2, str1);
+        printf("%s is smaller than %s\n", str1, str2);
     }
     else 
     {
