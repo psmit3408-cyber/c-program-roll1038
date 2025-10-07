@@ -1,4 +1,4 @@
-3.concatenate two strings
+//3.concatenate two strings
 
 #include<stdio.h>
 #include<string.h>

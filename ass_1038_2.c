@@ -1,4 +1,4 @@
-2.print the first N natural number
+//2.print the first N natural number
 
 #include<stdio.h>
 int main ()

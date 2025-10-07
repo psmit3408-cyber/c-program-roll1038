@@ -1,4 +1,4 @@
-4.calculate the perimeter of a rectangle
+//4.calculate the perimeter of a rectangle
 
 #include<stdio.h>
 int main ()
@@ -14,5 +14,6 @@ int main ()
     printf ("perimeter of a rectagle = %f",perimeter);
     return 0;
 }
+
 
 

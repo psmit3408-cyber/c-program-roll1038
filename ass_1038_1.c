@@ -1,4 +1,4 @@
-1.find the smallest of four number
+//1.find the smallest of four number
 
 #include<stdio.h>
 int main ()
